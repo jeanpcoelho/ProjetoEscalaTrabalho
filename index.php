@@ -6,6 +6,14 @@
     <title>Escala de Trabalho</title>
 </head>
 <body>
-    
+  <h1>
+<?php 
+echo"Escala de Folga";
+
+?>
+
+  </h1>  
+
+  
 </body>
 </html>
